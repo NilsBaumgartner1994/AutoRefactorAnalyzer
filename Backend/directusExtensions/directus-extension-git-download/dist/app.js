@@ -1,0 +1,1 @@
+var t={id:"gitDownload",name:"Git Download",icon:"box",description:"Download git repos",overview:({text:t})=>[{label:"Text",text:t}],options:[{field:"trigger",name:"{{$trigger}}",type:"string",meta:{width:"half",interface:"tags",options:{iconRight:"vpn_key"}}}]};export{t as default};
